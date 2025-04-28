@@ -1,5 +1,5 @@
 xn
-mkdir lesson
+mkdir lesson создает папку
 
 cd lesson/
 
@@ -13,7 +13,7 @@ git remote -v
     
 touch README.md
     
-explorer .
+explorer . открывает проводник
     
 git add .
    
