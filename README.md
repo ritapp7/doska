@@ -24,5 +24,8 @@ git push
 git push --set-upstream origin master
    
 git push
+
+npx create-strapi-app ppp --quickstart установка страпи
+
    
-history
+
