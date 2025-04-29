@@ -1,3 +1,9 @@
+## Как пользоваться:
+1) Склонируйте репозиторий
+2) npm i
+3) Переименуйте .env.example в .env, вставьте свой url и ключ
+4) Запустите через npm run dev
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
